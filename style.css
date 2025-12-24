@@ -1,0 +1,15 @@
+img {
+    width: 350px;
+}
+
+body {
+    text-align: center;
+    background: rgb(4, 4, 75);
+    color: white;
+}
+a:link {
+    color: greenyellow;
+}
+a:hover {
+    color: yellow;
+}

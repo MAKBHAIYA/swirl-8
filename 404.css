@@ -1,0 +1,28 @@
+body {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background: yellow;
+    color: rgb(27, 27, 27);
+
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: darkblue;
+}
+
+a {
+    color: green;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+a:hover {
+    color: yellow;
+    background-color: green;
+}
